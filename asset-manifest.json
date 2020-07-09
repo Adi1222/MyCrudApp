@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/MyCrudApp/static/css/main.1c238c75.chunk.css",
+    "main.js": "/MyCrudApp/static/js/main.26490349.chunk.js",
+    "main.js.map": "/MyCrudApp/static/js/main.26490349.chunk.js.map",
+    "runtime-main.js": "/MyCrudApp/static/js/runtime-main.c1b5f4e8.js",
+    "runtime-main.js.map": "/MyCrudApp/static/js/runtime-main.c1b5f4e8.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/MyCrudApp/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.36604621.chunk.js": "/MyCrudApp/static/js/2.36604621.chunk.js",
+    "static/js/2.36604621.chunk.js.map": "/MyCrudApp/static/js/2.36604621.chunk.js.map",
+    "index.html": "/MyCrudApp/index.html",
+    "precache-manifest.825c100b310ec10c2ebc72055bd7ce75.js": "/MyCrudApp/precache-manifest.825c100b310ec10c2ebc72055bd7ce75.js",
+    "service-worker.js": "/MyCrudApp/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/MyCrudApp/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.1c238c75.chunk.css.map": "/MyCrudApp/static/css/main.1c238c75.chunk.css.map",
+    "static/js/2.36604621.chunk.js.LICENSE.txt": "/MyCrudApp/static/js/2.36604621.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1b5f4e8.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.36604621.chunk.js",
+    "static/css/main.1c238c75.chunk.css",
+    "static/js/main.26490349.chunk.js"
+  ]
+}
